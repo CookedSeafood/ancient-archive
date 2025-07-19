@@ -1,0 +1,52 @@
+{
+    "ingredients": [
+        {
+            "count": 32,
+            "id": "minecraft:player_head",
+            "components": {
+                "minecraft:custom_data": {
+                    "id": "ancient_archive:obsidian_ovoid"
+                },
+                "minecraft:item_name": {
+                    "text": "Obsidian Ovoid"
+                },
+                "minecraft:profile": {
+                    "id": [148286236,227494900,-1254922066,-730993526],
+                    "properties": [
+                        {
+                            "name": "textures",
+                            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDE5MjZiZmE5Y2FmOGJjYTkwNjkyNzgwOTc4YjVjNzRkNzEzZTg2NWY1YmRkMzc5MjA5N2IxODc5OTk3ZTU1NyJ9fX0="
+                        }
+                    ]
+                },
+                "minecraft:rarity": "common"
+            }
+        },
+        {
+            "count": 1,
+            "id": "minecraft:dragon_breath"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:player_head",
+        "components": {
+            "minecraft:custom_data": {
+                "id": "ancient_archive:ender_flux"
+            },
+            "minecraft:item_name": {
+                "text": "Ender Flux"
+            },
+            "minecraft:profile": {
+                "id": [-874284987,1532052188,-2045485611,-1471455779],
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWE5NTM4NjlhMGM1M2U3YzVjMDEyMTE1YzJhNDMwM2NjYmZmOWQyZmI3OGJhZDRlMjhkMDY2ZWQxNmQwZjkxIn19fQ=="
+                    }
+                ]
+            },
+            "minecraft:rarity": "uncommon"
+        }
+    }
+}

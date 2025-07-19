@@ -1,0 +1,70 @@
+{
+    "ingredients": [
+        {
+            "count": 1,
+            "id": "minecraft:player_head",
+            "components": {
+                "minecraft:custom_data": {
+                    "id": "ancient_archive:ender_flux"
+                },
+                "minecraft:item_name": {
+                    "text": "Ender Flux"
+                },
+                "minecraft:profile": {
+                    "id": [-874284987,1532052188,-2045485611,-1471455779],
+                    "properties": [
+                        {
+                            "name": "textures",
+                            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWE5NTM4NjlhMGM1M2U3YzVjMDEyMTE1YzJhNDMwM2NjYmZmOWQyZmI3OGJhZDRlMjhkMDY2ZWQxNmQwZjkxIn19fQ=="
+                        }
+                    ]
+                },
+                "minecraft:rarity": "uncommon"
+            }
+        },
+        {
+            "count": 8,
+            "id": "minecraft:player_head",
+            "components": {
+                "minecraft:custom_data": {
+                    "id": "ancient_archive:chorus_mixture"
+                },
+                "minecraft:item_name": {
+                    "text": "Chorus Mixture"
+                },
+                "minecraft:profile": {
+                    "id": [-1418112175,-693613766,-1158301405,-451740820],
+                    "properties": [
+                        {
+                            "name": "textures",
+                            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjcyYWM2YTM0YWU1NWRhNjk2MGI4ZWRmZDAzYmJiNTliOTY5ZTkxZjVmMWJlOTRmMDVlZTFlZDU5YjEwZjBlOSJ9fX0="
+                        }
+                    ]
+                },
+                "minecraft:rarity": "common"
+            }
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:player_head",
+        "components": {
+            "minecraft:custom_data": {
+                "id": "ancient_archive:chorus_core"
+            },
+            "minecraft:item_name": {
+                "text": "Chorus Core"
+            },
+            "minecraft:profile": {
+                "id": [1039825395,-1758180798,-1378072492,537143780],
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE2NWYwNzIxOGU3ZWY5MmE1ZTIxNzg4OGFkZjM3ZjkyYmYzMDAzODBiOTA4ODRjNzQ2YWNlODFmYTdjYjg2NyJ9fX0="
+                    }
+                ]
+            },
+            "minecraft:rarity": "rare"
+        }
+    }
+}
