@@ -15,7 +15,12 @@
                     "text": "Chorus Core"
                 },
                 "minecraft:profile": {
-                    "id": [1039825395,-1758180798,-1378072492,537143780],
+                    "id": [
+                        1039825395,
+                        -1758180798,
+                        -1378072492,
+                        537143780
+                    ],
                     "properties": [
                         {
                             "name": "textures",
@@ -29,10 +34,13 @@
     ],
     "result": {
         "count": 1,
-        "id": "minecraft:diamond_sword",
+        "id": "minecraft:stick",
         "components": {
             "minecraft:custom_data": {
                 "id": "chorus_staff:chorus_staff"
+            },
+            "minecraft:enchantable": {
+                "value": 15
             },
             "minecraft:item_model": "minecraft:diamond_shovel",
             "minecraft:item_name": {

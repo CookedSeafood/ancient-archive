@@ -5,7 +5,7 @@
             "id": "minecraft:stick",
             "components": {
                 "minecraft:custom_data": {
-                  "id": "ancient_archive:silver_nugget"
+                    "id": "ancient_archive:silver_nugget"
                 },
                 "minecraft:item_model": "minecraft:iron_nugget",
                 "minecraft:item_name": {
