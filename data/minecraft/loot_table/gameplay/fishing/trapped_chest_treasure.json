@@ -402,7 +402,7 @@
             {
               "add": false,
               "enchantments": {
-                "pentamana:utilization": 1
+                "pentamana:mana_efficiency": 1
               },
               "function": "minecraft:set_enchantments"
             }
